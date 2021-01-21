@@ -1,0 +1,9 @@
+#Mapping values
+#Thu Jan 21 15:13:25 EET 2021
+CCRZ__TEXTVALUE__C=ccrz__TextValue__c
+CCRZ__PAGENAME__C=ccrz__PageName__c
+CCRZ__STOREFRONT__C=ccrz__Storefront__c
+CCRZ__SEQUENCEPRIORITY__C=ccrz__SequencePriority__c
+NAME=Name
+CCRZ__CONFIGURATIONMETA__C=ccrz__ConfigurationMeta__r\:ccrz__ConfigurationMetaId__c
+ID=ccrz__ConfigurationId__c

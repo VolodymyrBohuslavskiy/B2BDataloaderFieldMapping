@@ -1,0 +1,8 @@
+#Mapping values
+#Thu Jan 21 15:01:16 EET 2021
+CCRZ__APINAME__C=ccrz__APIName__c
+CCRZ__DESCRIPTION__C=ccrz__Description__c
+CCRZ__CONFIGURATIONMODULE__C=ccrz__ConfigurationModule__r\:ccrz__ConfigurationModuleId__c
+NAME=Name
+ID=ccrz__ConfigurationMetaId__c
+CCRZ__EXTERNALLYSAFE__C=ccrz__ExternallySafe__c
